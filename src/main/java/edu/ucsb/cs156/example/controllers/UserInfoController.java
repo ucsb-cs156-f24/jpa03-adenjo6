@@ -21,6 +21,7 @@ public class UserInfoController extends ApiController {
 
   /**
    * This method returns the current user.
+   * 
    * @return the current user
    */
 
