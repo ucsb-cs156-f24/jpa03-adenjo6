@@ -40,7 +40,7 @@ Click the triangle to read about how to re-run failed Github Actions
 Here's how to re-run failed Github Actions:
 
 1. Go to the Github Actions tab of your repo
-2. On the left side, in the list of workflows, if the one you are looking for is not listed, click `Show More Workflows`, as shown here:
+2. On the left side, in the list of workflows, if the one you are looking for is not listed, click `Show More Workflows`, as shown here:git s
 
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/5a1b6386-460a-484a-a89b-ec8251a81504">
 
